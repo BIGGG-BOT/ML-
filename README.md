@@ -1,11 +1,27 @@
-# ML-# ML Ground Up
+# 🤖 ML 学习笔记
 
-## 规则
-1. 所有核心算法用 NumPy 手写，禁止直接调 sklearn 的 `.fit()`
-2. 每行矩阵运算必须注释维度
-3. 每个 Notebook 必须包含：原理简述、NumPy 实现、维度检查、sklearn 对比验证、手写推导照片
-4. 推导卡住了不许看答案，停在那明天继续
-5. 每天学习上限 2.5 小时，到点就停
+&gt; 吴恩达 Machine Learning Specialization 学习记录  
+&gt; 使用 NumPy 手写算法 + sklearn 对比验证
 
-## 目录
-- `01_linear_regression/` - 单变量线性回归
+## 📚 学习目录
+
+| # | 主题 | 笔记 | 状态 |
+|---|------|------|------|
+| 01 | [单变量线性回归](./01-linear-regression/notebook.ipynb) | [查看 Notebook](./01-linear-regression/notebook.ipynb) | ✅ 完成 |
+| 02 | [多变量线性回归](./02-multivariate-linear-regression/notebook.ipynb) | [查看 Notebook](./02-multivariate-linear-regression/notebook.ipynb) | 🚧 进行中 |
+| 03 | [逻辑回归](./03-logistic-regression/notebook.ipynb) | [查看 Notebook](./03-logistic-regression/notebook.ipynb) | ⏳ 待开始 |
+
+## 📝 笔记规范
+
+每个 Notebook 包含：
+1. **原理简述**（Markdown 文字）
+2. **NumPy 手写实现**（带详细注释）
+3. **维度检查**（assert 语句验证矩阵形状）
+4. **sklearn 对比**（验证手写结果正确性）
+5. **手写推导照片**（附在 Notebook 末尾）
+
+## 🖼️ 图片索引
+
+| 算法 | 推导内容 | 图片 |
+|------|---------|------|
+| 单变量线性回归 | 成本函数与梯度下降推导 | [查看](./01-linear-regression/images/cost-function-derivation.jpg) |
