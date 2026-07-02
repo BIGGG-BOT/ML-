@@ -5,11 +5,7 @@
 
 ## 📚 学习目录
 
-| # | 主题 | 笔记 | 状态 |
-|---|------|------|------|
-| 01 | [单变量线性回归](./01-linear-regression/notebook.ipynb) | [查看 Notebook](./01-linear-regression/notebook.ipynb) | ✅ 完成 |
-| 02 | [多变量线性回归](./02-multivariate-linear-regression/notebook.ipynb) | [查看 Notebook](./02-multivariate-linear-regression/notebook.ipynb) | 🚧 进行中 |
-| 03 | [逻辑回归](./03-logistic-regression/notebook.ipynb) | [查看 Notebook](./03-logistic-regression/notebook.ipynb) | ⏳ 待开始 |
+
 
 ## 📝 笔记规范
 
