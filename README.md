@@ -20,4 +20,3 @@
 
 | 算法 | 推导内容 | 图片 |
 |------|---------|------|
-| 单变量线性回归 | 成本函数与梯度下降推导 | [查看](./01-linear-regression/images/cost-function-derivation.jpg) |
